@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+a:hover {color: rgb(0, 0, 0);}
+       a{color: rgb(134, 0, 175); text-decoration: none;}
+.logo{
+    width:7%;
+    position:relative;
+    top:-150px;
+    left:50px;
+}
+.hpname{
+    /* color:rgb(0, 110, 9); */
+    color:rgb(134, 0, 175);
+    font-size: 100px;
+    text-align: center;
+    position:relative;
+    top:150px;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
+    font-family: 'Monoton', cursive;
+}
+.center{
+    text-align:center;
+    font-size:45px;
+    position:relative;
+    top:175px;
+    font-family: 'Sedgwick Ave Display';
+}
+
+.background{
+    background: url(purple.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#button{
+    font-size:40px;
+    font-family: 'Sedgwick Ave Display';
+}
+#button:hover{
+    background-color:rgb(134, 0, 175);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.5);
+}
+
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:-5%;
+}
+
+#h-ambutton{
+    font-size:40px;
+    position:relative;
+    top:250px;
+    left:200px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+#h-ambutton:hover{
+    background-color:rgb(134, 0, 175);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.5);
+}
+
+#h-qbutton{
+    font-size:40px;
+    position:relative;
+    top:195px;
+    left:550px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+#h-qbutton:hover{
+    background-color:rgb(134, 0, 175);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.5);
+}
+
+#h-ebutton{
+    font-size:40px;
+    position:relative;
+    top:140px;
+    left:950px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+#h-ebutton:hover{
+    background-color:rgb(134, 0, 175);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.5);
+}
+
+#h-sbutton{
+    font-size:40px;
+    position:relative;
+    top:85px;
+    left:1400px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+#h-sbutton:hover{
+    background-color:rgb(134, 0, 175);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.5);
+}
+
+#ampage{
+    color:rgb(134, 0, 175);
+    font-size: 60px;
+    word-spacing: 15px;
+    text-align: center;
+    position:relative;
+    font-family: 'Monoton', cursive;
+    top:90px;
+}
+#am-p1{
+    text-align: center;
+    position: relative;
+    top:-150px;
+    color:black;
+    font-size:40px;
+    border-style:ridge;
+    border-color:rgb(134, 0, 175);
+    border-width: 10px;
+}
+
+.list{
+    font-size:25px;
+    position: relative;
+    top:-150px;
+    padding-left:100px;
+}
+b{
+    color:rgb(134, 0, 175);
+    font-size:125%;
+}
